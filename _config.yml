@@ -24,13 +24,9 @@ icon:		/assets/images/icon.png
 cover:		/assets/images/cover.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/freefouran
-    desc:	Follow me on twitter
-
   - icon:	github
     url:	https://github.com/jayfor-lang
-    desc:	Fork me on github
+    desc:	Contribute
 
 menu:
   - title:	Home
