@@ -6,16 +6,16 @@ permalink:	/blog/:title
 # Setup
 baseurl:
 
-title:		Thinny
+title:		jayfor-lang
 tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+description:	'The official website for the Jayfor programming language'
+url:		http://jayfor-lang.github.io
 commentsystem:	google
 disqus:		example
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Felix Angell'
+  url:		https://github.com/freefouran
 
 paginate:	5
 
@@ -25,20 +25,12 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/freefouran
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/jayfor-lang
     desc:	Fork me on github
-
-  - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
-    desc:	Add me on google+
-
-  - icon:	feed
-    url:	http://camporez.com/atom.xml
-    desc:	Subscribe to my feed
 
 menu:
   - title:	Home
@@ -48,10 +40,11 @@ menu:
     url:	/about
 
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
-  type_title:	Some rights reserved
+  author:	The developers of Jayfor
+  url:		http://jayfor-lang.io
+  type_title:	All Rights Reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+# kk will do m8
 google_analytics:
