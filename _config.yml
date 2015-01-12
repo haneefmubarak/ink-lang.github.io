@@ -7,11 +7,9 @@ permalink:	/blog/:title
 baseurl:
 
 title:		jayfor-lang
-tagline:	'blog'
+tagline:	
 description:	'The official website for the Jayfor programming language'
 url:		http://jayfor-lang.github.io
-commentsystem:	google
-disqus:		example
 
 author:
   name:		'Felix Angell'
@@ -27,13 +25,6 @@ social:
   - icon:	github
     url:	https://github.com/jayfor-lang
     desc:	Contribute
-
-menu:
-  - title:	Home
-    url:	/
-
-  - title:	About
-    url:	/about
 
 copyright:
   author:	The developers of Jayfor
