@@ -6,10 +6,10 @@ permalink:	/blog/:title
 # Setup
 baseurl:
 
-title:		jayfor-lang
+title:		ink-lang
 tagline:	
-description:	'The official website for the Jayfor programming language'
-url:		http://jayfor-lang.github.io
+description:	'The official website for the Ink programming language'
+url:		http://ink-lang.github.io
 
 author:
   name:		'Felix Angell'
@@ -23,12 +23,12 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	github
-    url:	https://github.com/jayfor-lang
+    url:	https://github.com/ink-lang
     desc:	Contribute
 
 copyright:
-  author:	The developers of Jayfor
-  url:		http://jayfor-lang.io
+  author:	The developers of Ink
+  url:		http://ink-lang.github.io
   type_title:	All Rights Reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
 
